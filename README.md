@@ -15,9 +15,6 @@ Installation :
 
 Clone the repository
 
-Install the required packages using pip :
-pip install -r requirements.txt
-
 Run the script :
 python foil_wheel_controller.py
 
