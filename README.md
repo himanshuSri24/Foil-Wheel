@@ -31,4 +31,4 @@ Usage :
 
 Credits :
 
-This project was inspired by various DIY racing wheel projects found online, and I've tried to add my tweaks into it. Feel free to fork this repository and modify it to your liking. Happy gaming!
+This project was inspired by various DIY racing wheel projects found online, and I've tried to implement my personalized version of the same. Feel free to fork this repository and modify it to your liking. Happy gaming!
