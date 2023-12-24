@@ -24,7 +24,7 @@ Usage :
 - Run the script
 - Launch your favorite racing game
 - Turn the foil wheel left and right to control the steering
-- Press down on the foil wheel to activate nitro boost
+- Pull down on the foil wheel to activate nitro boost
 
 Credits :
 
