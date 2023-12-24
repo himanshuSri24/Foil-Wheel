@@ -2,7 +2,7 @@ Foil Wheel Controller :
 
 This project is a DIY racing wheel controller for gaming enthusiasts on a budget. 
 It uses two pieces of foil attached to a cardboard disk to detect motion and control the steering, acceleration, and braking of racing games. 
-The foil wheel is held by a user just like a gaming wheel, and the user can turn it left and right, and press down to activate nitro boost.
+The foil wheel is held by a user just like a gaming wheel, and the user can turn it left and right, and pull down to activate nitro boost.
 
 Requirements :
 
